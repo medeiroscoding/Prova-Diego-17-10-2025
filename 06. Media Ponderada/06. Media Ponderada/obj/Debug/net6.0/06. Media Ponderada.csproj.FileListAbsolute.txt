@@ -1,0 +1,15 @@
+D:\Pedro Medeiros Prova 17-10\06. Media Ponderada\06. Media Ponderada\bin\Debug\net6.0\06. Media Ponderada.exe
+D:\Pedro Medeiros Prova 17-10\06. Media Ponderada\06. Media Ponderada\bin\Debug\net6.0\06. Media Ponderada.deps.json
+D:\Pedro Medeiros Prova 17-10\06. Media Ponderada\06. Media Ponderada\bin\Debug\net6.0\06. Media Ponderada.runtimeconfig.json
+D:\Pedro Medeiros Prova 17-10\06. Media Ponderada\06. Media Ponderada\bin\Debug\net6.0\06. Media Ponderada.dll
+D:\Pedro Medeiros Prova 17-10\06. Media Ponderada\06. Media Ponderada\bin\Debug\net6.0\06. Media Ponderada.pdb
+D:\Pedro Medeiros Prova 17-10\06. Media Ponderada\06. Media Ponderada\obj\Debug\net6.0\06. Media Ponderada.csproj.AssemblyReference.cache
+D:\Pedro Medeiros Prova 17-10\06. Media Ponderada\06. Media Ponderada\obj\Debug\net6.0\06. Media Ponderada.GeneratedMSBuildEditorConfig.editorconfig
+D:\Pedro Medeiros Prova 17-10\06. Media Ponderada\06. Media Ponderada\obj\Debug\net6.0\06. Media Ponderada.AssemblyInfoInputs.cache
+D:\Pedro Medeiros Prova 17-10\06. Media Ponderada\06. Media Ponderada\obj\Debug\net6.0\06. Media Ponderada.AssemblyInfo.cs
+D:\Pedro Medeiros Prova 17-10\06. Media Ponderada\06. Media Ponderada\obj\Debug\net6.0\06. Media Ponderada.csproj.CoreCompileInputs.cache
+D:\Pedro Medeiros Prova 17-10\06. Media Ponderada\06. Media Ponderada\obj\Debug\net6.0\06. Media Ponderada.dll
+D:\Pedro Medeiros Prova 17-10\06. Media Ponderada\06. Media Ponderada\obj\Debug\net6.0\refint\06. Media Ponderada.dll
+D:\Pedro Medeiros Prova 17-10\06. Media Ponderada\06. Media Ponderada\obj\Debug\net6.0\06. Media Ponderada.pdb
+D:\Pedro Medeiros Prova 17-10\06. Media Ponderada\06. Media Ponderada\obj\Debug\net6.0\06. Media Ponderada.genruntimeconfig.cache
+D:\Pedro Medeiros Prova 17-10\06. Media Ponderada\06. Media Ponderada\obj\Debug\net6.0\ref\06. Media Ponderada.dll
