@@ -1,0 +1,15 @@
+D:\Pedro Medeiros Prova 17-10\07. Tabuada\07. Tabuada\bin\Debug\net6.0\07. Tabuada.exe
+D:\Pedro Medeiros Prova 17-10\07. Tabuada\07. Tabuada\bin\Debug\net6.0\07. Tabuada.deps.json
+D:\Pedro Medeiros Prova 17-10\07. Tabuada\07. Tabuada\bin\Debug\net6.0\07. Tabuada.runtimeconfig.json
+D:\Pedro Medeiros Prova 17-10\07. Tabuada\07. Tabuada\bin\Debug\net6.0\07. Tabuada.dll
+D:\Pedro Medeiros Prova 17-10\07. Tabuada\07. Tabuada\bin\Debug\net6.0\07. Tabuada.pdb
+D:\Pedro Medeiros Prova 17-10\07. Tabuada\07. Tabuada\obj\Debug\net6.0\07. Tabuada.csproj.AssemblyReference.cache
+D:\Pedro Medeiros Prova 17-10\07. Tabuada\07. Tabuada\obj\Debug\net6.0\07. Tabuada.GeneratedMSBuildEditorConfig.editorconfig
+D:\Pedro Medeiros Prova 17-10\07. Tabuada\07. Tabuada\obj\Debug\net6.0\07. Tabuada.AssemblyInfoInputs.cache
+D:\Pedro Medeiros Prova 17-10\07. Tabuada\07. Tabuada\obj\Debug\net6.0\07. Tabuada.AssemblyInfo.cs
+D:\Pedro Medeiros Prova 17-10\07. Tabuada\07. Tabuada\obj\Debug\net6.0\07. Tabuada.csproj.CoreCompileInputs.cache
+D:\Pedro Medeiros Prova 17-10\07. Tabuada\07. Tabuada\obj\Debug\net6.0\07. Tabuada.dll
+D:\Pedro Medeiros Prova 17-10\07. Tabuada\07. Tabuada\obj\Debug\net6.0\refint\07. Tabuada.dll
+D:\Pedro Medeiros Prova 17-10\07. Tabuada\07. Tabuada\obj\Debug\net6.0\07. Tabuada.pdb
+D:\Pedro Medeiros Prova 17-10\07. Tabuada\07. Tabuada\obj\Debug\net6.0\07. Tabuada.genruntimeconfig.cache
+D:\Pedro Medeiros Prova 17-10\07. Tabuada\07. Tabuada\obj\Debug\net6.0\ref\07. Tabuada.dll
