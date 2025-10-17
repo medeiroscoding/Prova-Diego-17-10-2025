@@ -1,0 +1,15 @@
+D:\Pedro Medeiros Prova 17-10\08. Votos\08. Votos\obj\Debug\net6.0\08. Votos.csproj.AssemblyReference.cache
+D:\Pedro Medeiros Prova 17-10\08. Votos\08. Votos\obj\Debug\net6.0\08. Votos.GeneratedMSBuildEditorConfig.editorconfig
+D:\Pedro Medeiros Prova 17-10\08. Votos\08. Votos\obj\Debug\net6.0\08. Votos.AssemblyInfoInputs.cache
+D:\Pedro Medeiros Prova 17-10\08. Votos\08. Votos\obj\Debug\net6.0\08. Votos.AssemblyInfo.cs
+D:\Pedro Medeiros Prova 17-10\08. Votos\08. Votos\obj\Debug\net6.0\08. Votos.csproj.CoreCompileInputs.cache
+D:\Pedro Medeiros Prova 17-10\08. Votos\08. Votos\bin\Debug\net6.0\08. Votos.exe
+D:\Pedro Medeiros Prova 17-10\08. Votos\08. Votos\bin\Debug\net6.0\08. Votos.deps.json
+D:\Pedro Medeiros Prova 17-10\08. Votos\08. Votos\bin\Debug\net6.0\08. Votos.runtimeconfig.json
+D:\Pedro Medeiros Prova 17-10\08. Votos\08. Votos\bin\Debug\net6.0\08. Votos.dll
+D:\Pedro Medeiros Prova 17-10\08. Votos\08. Votos\bin\Debug\net6.0\08. Votos.pdb
+D:\Pedro Medeiros Prova 17-10\08. Votos\08. Votos\obj\Debug\net6.0\08. Votos.dll
+D:\Pedro Medeiros Prova 17-10\08. Votos\08. Votos\obj\Debug\net6.0\refint\08. Votos.dll
+D:\Pedro Medeiros Prova 17-10\08. Votos\08. Votos\obj\Debug\net6.0\08. Votos.pdb
+D:\Pedro Medeiros Prova 17-10\08. Votos\08. Votos\obj\Debug\net6.0\08. Votos.genruntimeconfig.cache
+D:\Pedro Medeiros Prova 17-10\08. Votos\08. Votos\obj\Debug\net6.0\ref\08. Votos.dll
